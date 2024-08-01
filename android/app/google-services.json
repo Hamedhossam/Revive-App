@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170516284368",
+    "project_id": "revive-app-d8d70",
+    "storage_bucket": "revive-app-d8d70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170516284368:android:855c6222f62664d1906fd5",
+        "android_client_info": {
+          "package_name": "com.example.blood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiZEGS1pixeMmuBkJ3AMewi1dDAzyI8l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
